@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Data</name>
+   <tag></tag>
+   <elementGuidId>46db1fd5-8575-4f17-a760-646773e7702b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAddSectionLanguage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddSectionLanguage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#btnAddSectionLanguage</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>96b083da-fc6f-4b06-97fa-e5bfb76c0826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAddSectionLanguage</value>
+      <webElementGuid>ceb7e935-b81a-4864-96e6-1b4bbcbd0276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>autoSave()</value>
+      <webElementGuid>dbe99de2-c699-485f-b22a-302bd2f5da05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary p-2</value>
+      <webElementGuid>a9dcd849-b7b6-48c3-9ac3-0ee46c09be00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                             Tambah Data
+                                        </value>
+      <webElementGuid>ef7779c9-a7d3-4551-85c0-bfe8dbd8c75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddSectionLanguage&quot;)</value>
+      <webElementGuid>f9adbce9-8861-46c8-8093-260a2e563bb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnAddSectionLanguage']</value>
+      <webElementGuid>4104e3c2-396b-4ef8-bf8e-913758c97649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/div[2]/div/a</value>
+      <webElementGuid>cb2361b4-c2d6-4908-b22e-a41b4d942fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::a[1]</value>
+      <webElementGuid>947dca56-7d2a-4860-9ec7-f043d192fee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'autoSave()')]</value>
+      <webElementGuid>01d4727d-40bf-445d-9a39-39f42959eef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a</value>
+      <webElementGuid>5ca86201-b194-4267-949d-c6d2461f25c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnAddSectionLanguage' and @href = 'autoSave()' and (text() = '
+                                             Tambah Data
+                                        ' or . = '
+                                             Tambah Data
+                                        ')]</value>
+      <webElementGuid>8e69119d-0b1a-40bf-9736-ea35e7e8cc55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

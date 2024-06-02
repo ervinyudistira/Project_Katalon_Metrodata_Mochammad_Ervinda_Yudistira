@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_E-mail_inputEmail</name>
+   <tag></tag>
+   <elementGuidId>d4576979-9759-44d1-b173-7d5be382e675</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputEmail']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputEmail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputEmail</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>416623de-4934-4fe2-afde-00d0a97fa4a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>201f0a40-2192-4890-804b-c887766ad3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputEmail</value>
+      <webElementGuid>985454d1-83e5-49b7-93bd-9b36569261ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ea682e63-5ac2-45ba-9a64-1cf4cfd39df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required</value>
+      <webElementGuid>698428ae-6d33-42c5-8717-ac2ad8948869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>
+                                                           if($(this).val() === ''){
+                                                           $('#frame').contents().find('#txtEmail').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                           $('#txtEmail').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                           } else {
+                                                           $('#frame').contents().find('#txtEmail').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                           $('#txtEmail').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                           } autoSave();</value>
+      <webElementGuid>1f61df93-9d35-42df-84f4-0c2a71c7d057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputEmail&quot;)</value>
+      <webElementGuid>84c37ead-c717-4808-9de1-ec3a41507494</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputEmail']</value>
+      <webElementGuid>4e1fedcd-1704-4788-9188-236a48e8e65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalSection']/div[5]/div[2]/input</value>
+      <webElementGuid>8f56684f-f449-4d2d-ac76-2686bc14f3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/input</value>
+      <webElementGuid>0e4f6c9e-b226-4310-9d72-10c00e4dffcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputEmail' and @type = 'text']</value>
+      <webElementGuid>35075c8f-8334-4502-9f3a-46f3f01460a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

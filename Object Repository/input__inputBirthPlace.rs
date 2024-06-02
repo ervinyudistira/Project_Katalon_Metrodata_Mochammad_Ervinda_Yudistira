@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__inputBirthPlace</name>
+   <tag></tag>
+   <elementGuidId>6094acd9-cbc7-4ea3-a7cc-dca6089526e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputBirthPlace']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputBirthPlace</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputBirthPlace</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5e0383c7-d3f2-444a-b671-d8dbeae8387d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>9ecece0e-815c-4e01-bfd5-c6d0f59ab61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputBirthPlace</value>
+      <webElementGuid>261469ad-eafd-4fbf-a263-cc9a3b413c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cbf48c72-2806-4c99-b035-8757d022db68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required ui-autocomplete-input</value>
+      <webElementGuid>00fda279-e7e1-4754-95fa-a534a8932379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>
+                                                   if($(this).val() === ''){
+                                                   $('#frame').contents().find('#txtBirthPlace').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   $('#txtBirthPlace').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   } else {
+                                                   $('#frame').contents().find('#txtBirthPlace').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   $('#txtBirthPlace').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   } autoSave(); validateRequire($(this))</value>
+      <webElementGuid>8755bb59-3d72-4bea-94d4-d2972389a384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputBirthPlace&quot;)</value>
+      <webElementGuid>57833b76-849a-497e-a07b-397b257a3725</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputBirthPlace']</value>
+      <webElementGuid>c7828dd8-d249-4f1c-a4eb-0b8bc3ca7fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalSection']/div[2]/div[2]/input</value>
+      <webElementGuid>092f0049-4ee0-40df-96ed-4724f20c580b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>6dd87fe9-5dbb-4ead-ba6b-454bd8431142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputBirthPlace' and @type = 'text']</value>
+      <webElementGuid>d657e650-0b5f-4b7b-bfc1-c9642b043d5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

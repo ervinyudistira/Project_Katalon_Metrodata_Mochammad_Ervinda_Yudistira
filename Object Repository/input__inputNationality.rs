@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__inputNationality</name>
+   <tag></tag>
+   <elementGuidId>e381eed0-0b7f-4d43-8301-020ac1c302b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputNationality']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputNationality</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inputNationality</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>094fb35f-8f7e-49dd-8448-6d3646ebba1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>95f3d68c-e283-44e5-90cb-a630c92ff9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputNationality</value>
+      <webElementGuid>942b9d60-9d34-44c2-9b5b-3f93a9151f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7234d345-50c0-4d65-9017-441fc11219e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control required _autocomplete-nationality ui-autocomplete-input</value>
+      <webElementGuid>25d65ee0-ae48-4611-ac88-a889fe6f6bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>
+                                                   if($(this).val() === ''){
+                                                   $('#frame').contents().find('#txtNationality').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   $('#txtNationality').text('______').fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   } else {
+                                                   $('#frame').contents().find('#txtNationality').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   $('#txtNationality').text($(this).val()).fadeTo(100, 0.3, function() { $(this).fadeTo(100, 1.0); })
+                                                   } autoSave(); validateRequire($(this))</value>
+      <webElementGuid>4e489580-9b0f-4003-b99a-819f6d72be02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputNationality&quot;)</value>
+      <webElementGuid>36cacdb1-7716-45ff-81e0-d659d10886ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='inputNationality']</value>
+      <webElementGuid>de027be4-13eb-43af-b823-26677f98a7bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalSection']/div[3]/div/input</value>
+      <webElementGuid>f3ba1ba0-cf25-4a49-8956-e46c44094943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>aefd6f5a-a1eb-4186-a91e-6119c1c6f81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'inputNationality' and @type = 'text']</value>
+      <webElementGuid>7b58f0ec-42fc-4ff6-ba92-9798cc5e6a72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

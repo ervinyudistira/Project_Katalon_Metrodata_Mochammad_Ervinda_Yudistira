@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Sat_fc-day fc-widget-content fc-fri fc-future</name>
+   <tag></tag>
+   <elementGuidId>3522e897-36cc-4cd2-813c-f750affec5b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar']/div[2]/div/table/tbody/tr/td/div/div/div[5]/div/table/tbody/tr/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(5) > .fc-bg > table > tbody > tr > td:nth-child(6)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>04783c09-380a-4d14-b72b-a6164f13f133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-day fc-widget-content fc-fri fc-future</value>
+      <webElementGuid>be09fa25-3e34-4d16-a90b-90b630ad2d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-date</name>
+      <type>Main</type>
+      <value>2024-06-28</value>
+      <webElementGuid>3e68b9f2-77b4-47a1-97d8-6df7581d8233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendar&quot;)/div[@class=&quot;fc-view-container&quot;]/div[@class=&quot;fc-view fc-dayGridMonth-view fc-dayGrid-view&quot;]/table[1]/tbody[@class=&quot;fc-body&quot;]/tr[1]/td[@class=&quot;fc-widget-content&quot;]/div[@class=&quot;fc-scroller fc-day-grid-container&quot;]/div[@class=&quot;fc-day-grid&quot;]/div[@class=&quot;fc-row fc-week fc-widget-content&quot;]/div[@class=&quot;fc-bg&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;fc-day fc-widget-content fc-fri fc-future&quot;]</value>
+      <webElementGuid>eba081b2-faf8-410e-a60c-89e261c1b967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendar']/div[2]/div/table/tbody/tr/td/div/div/div[5]/div/table/tbody/tr/td[6]</value>
+      <webElementGuid>9c2b6025-09f2-4e12-baf5-0dc1508367ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/table/tbody/tr/td[6]</value>
+      <webElementGuid>39186147-1f8f-4dd7-877c-368a78ba31a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_today_fc-icon fc-icon-chevron-right</name>
+   <tag></tag>
+   <elementGuidId>bb08b243-9c27-4e4e-996d-3dd3fb1d0e1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar']/div/div[3]/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fc-icon.fc-icon-chevron-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;next&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c5358d47-e16c-41b4-a00f-7964b5fdc29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-icon fc-icon-chevron-right</value>
+      <webElementGuid>2de1a039-fc32-4808-96f2-6a48f41f1fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendar&quot;)/div[@class=&quot;fc-toolbar fc-header-toolbar&quot;]/div[@class=&quot;fc-right&quot;]/div[@class=&quot;fc-button-group&quot;]/button[@class=&quot;fc-next-button fc-button fc-button-primary&quot;]/span[@class=&quot;fc-icon fc-icon-chevron-right&quot;]</value>
+      <webElementGuid>f50afe44-1ced-4184-8e72-b20c6c08c747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendar']/div/div[3]/div/button[2]/span</value>
+      <webElementGuid>9e803482-8257-4e6e-b34c-9e35d9a52950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>cbd265fc-c604-49a1-9075-d4c04b15a64a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
